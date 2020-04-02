@@ -5,9 +5,9 @@ def name=(name)
 end
 
 def name
-  @aname
-
+  @name
 end
+
 def job=(job)
    @job=job
 end
